@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blue_menu"
+    tools:context=".FrancaisGrammarFeedBackActivity">
+
+
+
+    <TextView
+        android:id="@+id/TextViewEnAnimal8"
+        android:layout_width="80dp"
+        android:layout_height="39dp"
+        android:background="@color/white"
+        android:textColor="@color/blue_menu"
+        android:textSize="25dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.07"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.778" />
+
+    <TextView
+        android:id="@+id/TextViewEnAnimal11"
+        android:layout_width="160dp"
+        android:layout_height="30dp"
+        android:textSize="20dp"
+        android:textColor="@color/blue_menu"
+        android:background="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.936"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.140" />
+
+    <TextView
+        android:id="@+id/TextViewEnAnimal33"
+        android:layout_width="160dp"
+        android:layout_height="30dp"
+        android:textSize="20dp"
+        android:background="@color/white"
+        android:textColor="@color/blue_menu"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.936"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.300" />
+
+    <TextView
+        android:id="@+id/TextViewEnAnimal44"
+        android:layout_width="160dp"
+        android:layout_height="30dp"
+        android:textSize="20dp"
+        android:background="@color/white"
+        android:textColor="@color/blue_menu"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.936"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.380" />
+
+    <TextView
+        android:id="@+id/TextViewEnAnimal55"
+        android:layout_width="160dp"
+        android:layout_height="30dp"
+        android:textSize="20dp"
+        android:background="@color/white"
+        android:textColor="@color/blue_menu"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.936"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.460" />
+
+    <TextView
+        android:id="@+id/TextViewEnAnimal1"
+        android:layout_width="170dp"
+        android:layout_height="30dp"
+        android:text=""
+        android:textSize="20dp"
+        android:background="@color/white"
+        android:textColor="@color/blue_menu"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.099"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.140" />
+
+    <TextView
+        android:id="@+id/TextViewEnAnimal5"
+        android:layout_width="170dp"
+        android:layout_height="30dp"
+        android:text=""
+        android:textSize="20dp"
+        android:background="@color/white"
+        android:textColor="@color/blue_menu"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.099"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.460" />
+
+    <TextView
+        android:id="@+id/TextViewEnAnimal6"
+        android:layout_width="170dp"
+        android:layout_height="30dp"
+        android:text=""
+        android:textSize="20dp"
+        android:background="@color/white"
+        android:textColor="@color/blue_menu"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.099"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.540" />
+
+    <TextView
+        android:id="@+id/TextViewEnAnimal3"
+        android:layout_width="170dp"
+        android:layout_height="30dp"
+        android:text=""
+        android:textSize="20dp"
+        android:background="@color/white"
+        android:textColor="@color/blue_menu"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.099"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.300" />
+
+    <TextView
+        android:id="@+id/TextViewEnAnimal77"
+        android:layout_width="160dp"
+        android:layout_height="30dp"
+        android:textSize="20dp"
+        android:background="@color/white"
+        android:textColor="@color/blue_menu"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.936"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.620" />
+
+    <TextView
+        android:id="@+id/textViewEnAnimalTitle"
+        android:layout_width="152dp"
+        android:layout_height="40dp"
+        android:background="@color/white"
+        android:text="Correction :"
+        android:textColor="@color/blue_menu"
+        android:textSize="30dp"
+        android:textStyle="italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.095"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.023" />
+
+    <TextView
+        android:id="@+id/TextViewEnAnimal4"
+        android:layout_width="170dp"
+        android:layout_height="30dp"
+        android:text=""
+        android:textSize="20dp"
+        android:background="@color/white"
+        android:textColor="@color/blue_menu"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.099"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.380" />
+
+    <TextView
+        android:id="@+id/TextViewEnAnimal7"
+        android:layout_width="170dp"
+        android:layout_height="30dp"
+        android:text=""
+        android:textSize="20dp"
+        android:background="@color/white"
+        android:textColor="@color/blue_menu"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.099"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.620" />
+
+    <TextView
+        android:id="@+id/TextViewEnAnimal22"
+        android:layout_width="160dp"
+        android:layout_height="30dp"
+        android:textSize="20dp"
+        android:background="@color/white"
+        android:textColor="@color/blue_menu"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.936"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.220" />
+
+    <TextView
+        android:id="@+id/TextViewEnAnimal66"
+        android:layout_width="160dp"
+        android:layout_height="30dp"
+        android:textSize="20dp"
+        android:background="@color/white"
+        android:textColor="@color/blue_menu"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.936"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.540" />
+
+    <TextView
+        android:id="@+id/TextViewEnAnimal2"
+        android:layout_width="170dp"
+        android:layout_height="30dp"
+        android:text=""
+        android:textSize="20dp"
+        android:background="@color/white"
+        android:textColor="@color/blue_menu"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.099"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.220" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="150dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="60dp"
+        android:backgroundTint="@color/white"
+        android:onClick="openFrancaisex"
+        android:text="Back to exercises"
+        android:textColor="@color/blue_menu"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.106"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/TextViewEnAnimal7"
+        app:layout_constraintVertical_bias="0.743" />
+
+    <Button
+        android:id="@+id/buttonMenu"
+        android:layout_width="150dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="60dp"
+        android:backgroundTint="@color/white"
+        android:onClick="openFrancaisMenu"
+        android:text="Back to menu"
+        android:textColor="@color/blue_menu"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.865"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/TextViewEnAnimal7"
+        app:layout_constraintVertical_bias="0.746" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/yellow_menu"
+    tools:context=".DeutschVocabularyFruitsFeedBackActivity">
+
+    <TextView
+        android:id="@+id/TextViewDeFruit8"
+        android:layout_width="80dp"
+        android:layout_height="39dp"
+        android:background="@color/white"
+        android:textColor="@color/yellow_menu"
+        android:textSize="25dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.07"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.778" />
+
+    <TextView
+        android:id="@+id/TextViewDeFruit11"
+        android:layout_width="160dp"
+        android:layout_height="30dp"
+        android:textSize="20dp"
+        android:textColor="@color/yellow_menu"
+        android:background="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.936"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.140" />
+
+    <TextView
+        android:id="@+id/TextViewDeFruit33"
+        android:layout_width="160dp"
+        android:layout_height="30dp"
+        android:textSize="20dp"
+        android:background="@color/white"
+        android:textColor="@color/yellow_menu"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.936"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.300" />
+
+    <TextView
+        android:id="@+id/TextViewDeFruit44"
+        android:layout_width="160dp"
+        android:layout_height="30dp"
+        android:textSize="20dp"
+        android:background="@color/white"
+        android:textColor="@color/yellow_menu"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.936"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.380" />
+
+    <TextView
+        android:id="@+id/TextViewDeFruit55"
+        android:layout_width="160dp"
+        android:layout_height="30dp"
+        android:textSize="20dp"
+        android:background="@color/white"
+        android:textColor="@color/yellow_menu"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.936"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.460" />
+
+    <TextView
+        android:id="@+id/TextViewDeFruit1"
+        android:layout_width="170dp"
+        android:layout_height="30dp"
+        android:text="Keine Antworten"
+        android:textSize="20dp"
+        android:background="@color/white"
+        android:textColor="@color/yellow_menu"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.099"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.140" />
+
+    <TextView
+        android:id="@+id/TextViewDeFruit5"
+        android:layout_width="170dp"
+        android:layout_height="30dp"
+        android:text="Keine Antworten"
+        android:textSize="20dp"
+        android:background="@color/white"
+        android:textColor="@color/yellow_menu"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.099"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.460" />
+
+    <TextView
+        android:id="@+id/TextViewDeFruit6"
+        android:layout_width="170dp"
+        android:layout_height="30dp"
+        android:text="Keine Antworten"
+        android:textSize="20dp"
+        android:background="@color/white"
+        android:textColor="@color/yellow_menu"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.099"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.540" />
+
+    <TextView
+        android:id="@+id/TextViewDeFruit3"
+        android:layout_width="170dp"
+        android:layout_height="30dp"
+        android:text="Keine Antworten"
+        android:textSize="20dp"
+        android:background="@color/white"
+        android:textColor="@color/yellow_menu"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.099"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.300" />
+
+    <TextView
+        android:id="@+id/TextViewDeFruit77"
+        android:layout_width="160dp"
+        android:layout_height="30dp"
+        android:textSize="20dp"
+        android:background="@color/white"
+        android:textColor="@color/yellow_menu"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.936"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.620" />
+
+    <TextView
+        android:id="@+id/textViewDeFruitTitle"
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:text="Korrektur :"
+        android:textStyle="italic"
+        android:textColor="@color/yellow_menu"
+        android:background="@color/white"
+        android:textSize="30dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.095"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.023" />
+
+    <TextView
+        android:id="@+id/TextViewDeFruit4"
+        android:layout_width="170dp"
+        android:layout_height="30dp"
+        android:text="Keine Antworten"
+        android:textSize="20dp"
+        android:background="@color/white"
+        android:textColor="@color/yellow_menu"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.099"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.380" />
+
+    <TextView
+        android:id="@+id/TextViewDeFruit7"
+        android:layout_width="170dp"
+        android:layout_height="30dp"
+        android:text="Keine Antworten"
+        android:textSize="20dp"
+        android:background="@color/white"
+        android:textColor="@color/yellow_menu"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.099"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.620" />
+
+    <TextView
+        android:id="@+id/TextViewDeFruit22"
+        android:layout_width="160dp"
+        android:layout_height="30dp"
+        android:textSize="20dp"
+        android:background="@color/white"
+        android:textColor="@color/yellow_menu"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.936"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.220" />
+
+    <TextView
+        android:id="@+id/TextViewDeFruit66"
+        android:layout_width="160dp"
+        android:layout_height="30dp"
+        android:textSize="20dp"
+        android:background="@color/white"
+        android:textColor="@color/yellow_menu"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.936"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.540" />
+
+    <TextView
+        android:id="@+id/TextViewDeFruit2"
+        android:layout_width="170dp"
+        android:layout_height="30dp"
+        android:text="Keine Antworten"
+        android:textSize="20dp"
+        android:background="@color/white"
+        android:textColor="@color/yellow_menu"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.099"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.220" />
+
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="150dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="60dp"
+        android:backgroundTint="@color/white"
+        android:onClick="openDeutschex"
+        android:text="Zurück zu den Übungen"
+        android:textColor="@color/yellow_menu"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.106"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/TextViewDeFruit7"
+        app:layout_constraintVertical_bias="0.743" />
+
+    <Button
+        android:id="@+id/buttonMenu"
+        android:layout_width="150dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="60dp"
+        android:backgroundTint="@color/white"
+        android:onClick="openDeutschMenu"
+        android:text="Zurück zum Menü"
+        android:textColor="@color/yellow_menu"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.865"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/TextViewDeFruit7"
+        app:layout_constraintVertical_bias="0.746" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

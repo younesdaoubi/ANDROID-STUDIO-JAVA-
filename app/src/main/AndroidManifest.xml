@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.e_speaking">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Espeaking">
+        <activity
+            android:name=".NotificationOpenActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DeutschGrammarFeedBackActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DutchGrammar3Activity"
+            android:exported="false" />
+        <activity
+            android:name=".FrancaisGrammar5Activity"
+            android:exported="false" />
+        <activity
+            android:name=".DutchGrammarFeedBackActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FrancaisGrammarFeedBackActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DeutschGrammar2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".DutchGrammar7Activity"
+            android:exported="false" />
+        <activity
+            android:name=".DeutschGrammar7Activity"
+            android:exported="false" />
+        <activity
+            android:name=".FrancaisGrammar7Activity"
+            android:exported="false" />
+        <activity
+            android:name=".DutchGrammar6Activity"
+            android:exported="false" />
+        <activity
+            android:name=".DeutschGrammar6Activity"
+            android:exported="false" />
+        <activity
+            android:name=".FrancaisGrammar6Activity"
+            android:exported="false" />
+        <activity
+            android:name=".DutchGrammar5Activity"
+            android:exported="false" />
+        <activity
+            android:name=".DeutschGrammar5Activity"
+            android:exported="false" />
+        <activity
+            android:name=".DutchGrammar4Activity"
+            android:exported="false" />
+        <activity
+            android:name=".DeutschGrammar4Activity"
+            android:exported="false" />
+        <activity
+            android:name=".FrancaisGrammar4Activity"
+            android:exported="false" />
+        <activity
+            android:name=".DeutschGrammar3Activity"
+            android:exported="false" />
+        <activity
+            android:name=".FrancaisGrammar3Activity"
+            android:exported="false" />
+        <activity
+            android:name=".DutchGrammar2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".FrancaisGrammar2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".DeutschGrammarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DutchGrammarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FrancaisGrammarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DeutschGrammarTheorieActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DutchGrammarTheorieActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FrancaisGrammarTheorieActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EnglishGrammarTheorieActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DutchVocabularyAnimalFeedBackActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DeutschVocabularyAnimalFeedBackActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EnglishVocabularyAnimalFeedBackActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FrancaisVocabularyAnimalFeedBackActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FrancaisVocabularyAnimalQuestionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EnglishVocabularyAnimalQuestionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DutchVocabularyAnimalQuestionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DeutschVocabularyAnimalQuestionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EnglishVocabularyAnimalActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FrancaisVocabularyAnimalActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DutchVocabularyAnimalActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DeutschVocabularyAnimalActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DutchVocabularyFruitsQuestionsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DeutschVocabularyFruitsQuestionsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FrancaisVocabularyFruitsQuestionsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EnglishVocabularyFruitsQuestionsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FrancaisVocabularyFruitsFeedBackActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DutchVocabularyFruitsFeedBackActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DutchVocabularyFruits2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".DutchVocabularyFruitsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FrancaisVocabularyFruits2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".FrancaisVocabularyFruitsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DeutschVocabularyFruitsFeedBackActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DeutschVocabularyFruits2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".DeutschVocabularyFruitsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EnglishVocabularyFruitsFeedBackActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EnglishVocabularyFruits2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".EnglishVocabularyFruitsActivity"
+            android:exported="false" />
+        <!--
+             TODO: Before you run your application, you need a Google Maps API key.
+
+             To get one, follow the directions here:
+
+                https://developers.google.com/maps/documentation/android-sdk/get-api-key
+
+             Once you have your API key (it starts with "AIza"), define a new property in your
+             project's local.properties file (e.g. MAPS_API_KEY=Aiza...), and replace the
+             "YOUR_API_KEY" string in this file with "${MAPS_API_KEY}".
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="${MAPS_API_KEY}" />
+
+        <activity
+            android:name=".MapsActivity"
+            android:exported="false"
+            android:label="@string/title_activity_maps" />
+        <activity
+            android:name=".DeutschQuizActivity1"
+            android:exported="false" />
+        <activity
+            android:name=".DeutschQuizActivity"
+            android:exported="false"
+            android:parentActivityName=".menuActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".menuActivity" />
+        </activity>
+        <activity
+            android:name=".DeutschListeningEx1Activity"
+            android:exported="false" />
+        <activity
+            android:name=".DutchListeningEx1Activity"
+            android:exported="false" />
+        <activity
+            android:name=".DutchQuizActivity1"
+            android:exported="false" />
+        <activity
+            android:name=".DutchQuizActivity"
+            android:exported="false"
+            android:parentActivityName=".menuActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".menuActivity" />
+        </activity>
+        <activity
+            android:name=".FrancaisListeningEx1Activity"
+            android:exported="false" />
+        <activity
+            android:name=".DeutschVocabularyMenuActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DeutschListeningMenuActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DeutschGrammarMenuActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DutchVocabularyMenuActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DutchGrammarMenuActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DutchListeningMenuActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FrancaisListeningMenuActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FrancaisVocabularyMenuActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FrancaisGrammarMenuActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EnglishVocabularyMenuActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EnglishGrammarMenuActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EnglishListeningEx1Activity"
+            android:exported="false" />
+        <activity
+            android:name=".FrancaisMenu"
+            android:exported="false"
+            android:parentActivityName=".menuActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".menuActivity" />
+        </activity>
+        <activity
+            android:name=".FrancaisQuizActivity1"
+            android:exported="false" />
+        <activity
+            android:name=".FrancaisQuizActivity"
+            android:exported="false"
+            android:parentActivityName=".menuActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".menuActivity" />
+        </activity>
+        <activity
+            android:name=".DeutschMenu"
+            android:exported="false"
+            android:parentActivityName=".menuActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".menuActivity" />
+        </activity>
+        <activity
+            android:name=".DutchMenu"
+            android:exported="false"
+            android:parentActivityName=".menuActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".menuActivity" />
+        </activity>
+        <activity
+            android:name=".EnglishListeningMenuActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EnglishQuizActivity1"
+            android:exported="false" />
+        <activity
+            android:name=".EnglishQuizActivity"
+            android:exported="false"
+            android:parentActivityName=".menuActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".menuActivity" />
+        </activity>
+        <activity
+            android:name=".EnglishGrammar7Activity"
+            android:exported="false" />
+        <activity
+            android:name=".EnglishGrammar6Activity"
+            android:exported="false" />
+        <activity
+            android:name=".EnglishGrammar5Activity"
+            android:exported="false" />
+        <activity
+            android:name=".EnglishGrammar4Activity"
+            android:exported="false" />
+        <activity
+            android:name=".EnglishGrammar3Activity"
+            android:exported="false" />
+        <activity
+            android:name=".EnglishGrammar2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".EnglishGrammarFeedBackActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EnglishGrammarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EnglishMenu"
+            android:exported="false"
+            android:parentActivityName=".menuActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".menuActivity" />
+        </activity>
+        <activity
+            android:name=".DutchActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DeutschActivity"
+            android:exported="false" />
+
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value=".menuActivity" />
+
+        <activity
+            android:name=".FrancaisActivity"
+            android:exported="false"
+            android:parentActivityName=".menuActivity" />
+
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value=".menuActivity" />
+
+        <activity
+            android:name=".menuActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+
+
+        <receiver android:name=".MemoBroadcast"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>
